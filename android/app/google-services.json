@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486493501524",
+    "firebase_url": "https://flash-chat-8e260.firebaseio.com",
+    "project_id": "flash-chat-8e260",
+    "storage_bucket": "flash-chat-8e260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486493501524:android:03103a8d596bb98f6c95c1",
+        "android_client_info": {
+          "package_name": "uk.co.domking.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486493501524-vk112o9745nnm8q2dkkjesu49759c13m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6s0FEoocsn2FNhZJgcB2LKt4T9YpZV8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486493501524-vk112o9745nnm8q2dkkjesu49759c13m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
